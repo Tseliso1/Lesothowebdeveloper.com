@@ -1,0 +1,42 @@
+body{
+background:#11ff00;
+  min-height:490px;
+  background:url('../image/showcase.png') no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align:center;
+  color:#ffb200;
+  height: 1px;
+ }
+
+#showcase h1{
+  margin-top:100px;
+  font-size:20px;
+  margin-bottom:0px;
+}
+
+#showcase p{
+  font-size:5px;
+}
+footer{
+  padding:50px;
+  margin-top:76px;
+  color:#fff100;
+  background-color:#000000;
+  background-size: cover;
+  background-position:cover;
+  text-align: center;
+  margin-right:80px;
+  width: 320px;
+}
+
+img{
+    border:1px solid blue;
+    border-radius:1px;
+    margin-bottom:60px;
+    position: cover;
+    
+}
+summary{
+    color:#ff000a;
+}
